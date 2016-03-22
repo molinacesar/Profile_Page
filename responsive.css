@@ -1,0 +1,14 @@
+@media screen and (min-width: 800px){
+
+  .main-nav li{
+    float:right
+  }
+}
+
+@media screen and (min-width:300px){
+
+  footer{
+    display: clear
+  }
+
+}
